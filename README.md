@@ -6,7 +6,7 @@ Developer, student
 
 I'm a student developer learning a lot of languages like HTML, CSS, JS, GO, PYTHON, C#, JAVA... I have been developing since 2018 while always looking for new experiences and knowledge, more than a job it is a passion
 
-*   🌍  I'm based in Marseille
+*   🌍  I'm based in Marseille, FR
 *   🖥️  See my portfolio at [Website](http://blog.valentinlamine.fr)
 *   ✉️  You can contact me at [contact@valentinlamine.fr](mailto:contact@valentinlamine.fr)
 *   🚀  I'm currently working on [MyAndroidApp](http://github.com/valentinlamine)
