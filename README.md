@@ -10,7 +10,7 @@ I'm a student developer learning a lot of languages like HTML, CSS, JS, GO, PYTH
 *   🖥️  See my portfolio at [Website](http://blog.valentinlamine.fr)
 *   ✉️  You can contact me at [contact@valentinlamine.fr](mailto:contact@valentinlamine.fr)
 *   🚀  I'm currently working on my [Gallery](http://github.com/valentinlamine/gallery) app
-*   🧠  I'm currently learning [PHP](https://www.php.net/)
+*   🧠  I'm currently learning [Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-basics?hl=fr#0)
 
 <a href="https://www.github.com/valentinlamine" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/valentinlamine?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
